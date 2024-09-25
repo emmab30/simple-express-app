@@ -7,7 +7,7 @@ let Navbar = {
                   <input type="checkbox" id="nav-check">
                   <div class="nav-header">
                     <div class="nav-title">
-                      DanieL
+                      Test Navbar
                     </div>
                   </div>
                   <div class="nav-btn">
